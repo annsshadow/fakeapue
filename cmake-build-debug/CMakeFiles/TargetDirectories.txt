@@ -1,0 +1,3 @@
+/Users/annsshadow/Documents/fakeapue/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/annsshadow/Documents/fakeapue/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/annsshadow/Documents/fakeapue/cmake-build-debug/CMakeFiles/fakeapue.dir
