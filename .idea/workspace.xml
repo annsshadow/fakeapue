@@ -12,7 +12,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c85621ac-5bbb-44d6-b738-7378f8b8b813" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/list_file.cpp" afterPath="$PROJECT_DIR$/list_file.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cp_stdo2stdi.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -65,7 +66,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="list_file.cpp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="list_file.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/list_file.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
@@ -73,6 +74,16 @@
               <folding>
                 <element signature="e#47#64#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cp_stdo2stdi.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cp_stdo2stdi.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -87,6 +98,7 @@
       <list>
         <option value="$PROJECT_DIR$/apue.h" />
         <option value="$PROJECT_DIR$/list_file.cpp" />
+        <option value="$PROJECT_DIR$/cp_stdo2stdi.cpp" />
       </list>
     </option>
   </component>
@@ -324,12 +336,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1483013873522</updated>
-      <workItem from="1483013879318" duration="846000" />
+      <workItem from="1483013879318" duration="1338000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="846000" />
+    <option name="totallyTimeSpent" value="1338000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="960" height="976" extended-state="0" />
@@ -401,6 +413,14 @@
           <folding>
             <element signature="e#47#64#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cp_stdo2stdi.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
